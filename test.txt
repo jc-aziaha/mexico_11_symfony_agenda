@@ -1,0 +1,8 @@
+Tel: +33 6-05-05-05-05
+
+Pour créer un formulaire: 
+    - Créer l'entité
+    - Se baser sur cette entité pour générer le type du formulaire
+    - Se baser sur ce type du formulaire pour créer le formulaire
+    - Passer la partie visible de ce formulaire à la page
+    - Afficher le formulaire
