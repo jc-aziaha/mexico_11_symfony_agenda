@@ -2,6 +2,8 @@
 
 use App\Kernel;
 
+// echo date_default_timezone_get(); die();
+
 require_once dirname(__DIR__).'/vendor/autoload_runtime.php';
 
 return function (array $context) {
